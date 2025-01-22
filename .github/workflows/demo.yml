@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: get-code
-        run: echo "hello"
+        run: echo "hello world"

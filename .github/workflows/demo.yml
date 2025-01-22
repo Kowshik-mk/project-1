@@ -2,7 +2,7 @@ name: test_workflow
 on:
   push:
     branches:
-      - main  # You can specify which branch to trigger this on, adjust if needed.
+      - dev
 
 jobs:
   firss_job:
